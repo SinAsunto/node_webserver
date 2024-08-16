@@ -40,3 +40,6 @@ This project is a simple Node.js web server using Express and Handlebars (hbs) f
 - [Express](https://www.npmjs.com/package/express): Fast, unopinionated, minimalist web framework for Node.js.
 - [hbs](https://www.npmjs.com/package/hbs): Express.js view engine for Handlebars.js.
 - [dotenv](https://www.npmjs.com/package/dotenv): Loads environment variables from a `.env` file into `process.env`.
+
+## Screenshot
+![image](https://github.com/user-attachments/assets/7a3ff54a-5a8e-4cd8-9542-6621b15ac552)
